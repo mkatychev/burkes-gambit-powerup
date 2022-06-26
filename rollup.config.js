@@ -69,6 +69,8 @@ export default {
       inlineSources: !production,
     }),
     swc({
+      minify: true,
+      sourceMaps: true,
       jsc: {
         parser: {
           syntax: "typescript",
