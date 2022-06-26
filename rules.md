@@ -1,4 +1,4 @@
-# Burke's Gambit Engine Power-Up Table (d20)  ![D20](./d20.svg)
+# Burke's Gambit Engine Power-Up Table (d20) <img src="./d20.svg" width="149" align="right"/>
 
 * Each time an engine power-up is rolled, the player who rolled it then rolls a
   20-sided die and resolves the result they rolled on the table below.
