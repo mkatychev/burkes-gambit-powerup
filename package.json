@@ -29,6 +29,7 @@
   },
   "dependencies": {
     "@rollup/plugin-replace": "^4.0.0",
+    "gh-pages": "^4.0.0",
     "react-scripts": "^2.1.3",
     "rollup-plugin-swc3": "^0.3.0",
     "selecto": "^1.16.2",
